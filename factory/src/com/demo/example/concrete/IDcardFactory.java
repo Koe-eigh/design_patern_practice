@@ -6,6 +6,7 @@ import java.util.List;
 import com.demo.example.framework.Product;
 import com.demo.example.framework.ProductFactory;
 
+//this is also Singleton pattern
 public class IDcardFactory extends ProductFactory {
 
     private static IDcardFactory factory;
